@@ -55,4 +55,4 @@ I utilized the built-in Linux Manual System to verify flags for the `ls` and `ch
 
 ---
 
-![alt text](screenshots/filename.jpeg)
+
