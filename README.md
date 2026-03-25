@@ -36,7 +36,7 @@ To move away from the default 'kali' user, I provisioned a dedicated **hr_admin*
 The final phase involved transferring file ownership to the HR department and stripping all permissions from non-authorized users. 
 * **Mode:** `chmod 600` (Read/Write for Owner, No access for others).
 * **Screenshot:** `05_Security_Hardening_Permissions.jpeg`
-![Security Permissions](05_Security_Hardening_Permissions.jpeg)
+![Security Permissions](05_Security_Hardening_Permission.png)
 
 
 ### 5. Technical Self-Sufficiency
